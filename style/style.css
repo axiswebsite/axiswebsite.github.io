@@ -4,7 +4,7 @@ html {
   width: auto;
 }
 body {
-  background-color: gray; 
+  background-image: radial-gradient(#fd00ff, #fdff00, #00ff38, 	#00f9ff, 	#3c00ff); 
 }
 ul {
   list-style-type: none;
