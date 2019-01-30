@@ -31,7 +31,7 @@ li a:hover {
 }
 .titleA {
  color: white;
- background-color: gray;
+ background-image: linear-gradient(#fd00ff, #fdff00, #00ff38, 	#00f9ff, 	#3c00ff);
 }
 .flex-container {
   display: flex;
