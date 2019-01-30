@@ -30,7 +30,7 @@ li a:hover {
   background-color: #fd00ff;
 }
 .titleA {
- color: #fd00ff;
+ color: #3c00ff;
  background-image: linear-gradient(#fd00ff, #fdff00, #00ff38, 	#00f9ff, 	#3c00ff);
 }
 .flex-container {
@@ -45,6 +45,4 @@ li a:hover {
   text-align: center;
   line-height: 75px;
   font-size: 30px;
-  display: flex;
-  justify-content: center;
 }
