@@ -1,4 +1,11 @@
 /* styles here */
+html {
+  height: 100%;
+  width: auto;
+}
+body {
+  background-color: gray; 
+}
 ul {
   list-style-type: none;
   margin: 0;
