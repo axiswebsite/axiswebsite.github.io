@@ -20,14 +20,14 @@ li {
 
 li a {
   display: block;
-  color: white;
+  background-image: linear-gradient(#fd00ff, #fdff00, #00ff38, 	#00f9ff, 	#3c00ff);
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
 
 li a:hover {
-  background-color: #111;
+  background-color: #fd00ff;
 }
 .titleA {
  color: #fd00ff;
@@ -39,7 +39,7 @@ li a:hover {
   background-color: DodgerBlue;
 }
 .flex-container > div {
-  background-color: #f1f1f1;
+  background-color: #00ff38;
   width: 100px;
   margin: 10px;
   text-align: center;
