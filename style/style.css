@@ -37,7 +37,7 @@ li a:hover {
 .flex-container {
   display: flex;
   flex-wrap: nowrap;
-  background-color: DodgerBlue;
+  background-color: #00f9ff;
 }
 .flex-container > div {
   background-color: #00ff38;
@@ -46,4 +46,5 @@ li a:hover {
   text-align: center;
   line-height: 75px;
   font-size: 30px;
+  text-color: #3c00ff;
 }
