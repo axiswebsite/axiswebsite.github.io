@@ -37,6 +37,7 @@ li a:hover {
   display: flex;
   flex-wrap: nowrap;
   background-color: DodgerBlue;
+  justify-items: center;
 }
 .flex-container > div {
   background-color: #00ff38;
