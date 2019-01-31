@@ -15,7 +15,7 @@ ul {
 }
 
 li {
-  float: left;
+  float: center;
 }
 
 li a {
@@ -23,7 +23,7 @@ li a {
   font-size: 30px;
   /* background-image: linear-gradient(#3c00ff, #00f9ff, #00ff38, 	#fdff00, 	#fd00ff); */
   text-align: center;
-  padding: 17px 20px;
+  padding: 14px 16px;
   text-decoration: none;
   color: #3c00ff;
 }
