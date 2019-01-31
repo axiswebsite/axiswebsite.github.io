@@ -15,7 +15,9 @@ ul {
 }
 
 li {
-  float: center;
+  float: left;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 li a {
