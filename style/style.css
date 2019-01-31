@@ -1,54 +1,59 @@
 /* styles here */
 html {
-  height: 100%;
-  width: auto;
+    height: 100%;
+    width: auto;
 }
+
 body {
-  background-image: radial-gradient(#fd00ff, #fdff00, #00ff38, 	#00f9ff, 	#3c00ff); 
+    background-image: radial-gradient(#fd00ff, #fdff00, #00ff38, #00f9ff, #3c00ff);
 }
+
 ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-image: linear-gradient(#3c00ff, #00f9ff, #00ff38, 	#fdff00, 	#fd00ff);
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-image: linear-gradient(#3c00ff, #00f9ff, #00ff38, #fdff00, #fd00ff);
 }
 
 li {
-  float: left;
-  margin-right: auto;
-  margin-left: 200px;
+    float: left;
+    margin-right: auto;
+    margin-left: 200px;
 }
 
 li a {
-  display: block;
-  font-size: 30px;
-  /* background-image: linear-gradient(#3c00ff, #00f9ff, #00ff38, 	#fdff00, 	#fd00ff); */
-  text-align: center;
-  padding: 14px 30px;
-  text-decoration: none;
-  color: #3c00ff;
+    display: block;
+    font-size: 30px;
+    /* background-image: linear-gradient(#3c00ff, #00f9ff, #00ff38, 	#fdff00, 	#fd00ff); */
+    text-align: center;
+    padding: 14px 30px;
+    text-decoration: none;
+    color: #3c00ff;
 }
 
 li a:hover {
-  background-color: #fd00ff;
+    background-color: #fd00ff;
 }
+
 .titleA {
- color: #3c00ff;
-  font-size: 50px;
-  background-image: linear-gradient(#fd00ff, #fdff00, #00ff38, 	#00f9ff, 	#3c00ff);
+    color: #3c00ff;
+    font-size: 50px;
+    background-image: linear-gradient(#fd00ff, #fdff00, #00ff38, #00f9ff, #3c00ff);
 }
+
 .flex-container {
-  display: flex;
-  flex-wrap: nowrap;
-  background-color: #00f9ff;
-  text-color: #3c00ff;
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: #00f9ff;
+    color: #3c00ff;
 }
+
 .flex-container > div {
-  background-color: #00ff38;
-  width: 700px;
-  margin: 10px;
-  text-align: center;
-  line-height: 75px;
-  font-size: 30px;
+    background-color: #00ff38;
+    width: 700px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
 }
