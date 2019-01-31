@@ -17,8 +17,7 @@ ul {
 li {
   float: left;
   margin-right: auto;
-  margin-left: auto;
-  width: 100%;
+  margin-left: 200px;
 }
 
 li a {
