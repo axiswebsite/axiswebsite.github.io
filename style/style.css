@@ -43,6 +43,11 @@ li a:hover {
     background-image: linear-gradient(#fd00ff, #fdff00, #00ff38, #00f9ff, #3c00ff);
 }
 
+.band {
+    border-style: groove;
+    border-color: #00f9ff;
+}
+
 .flex-container {
     display: flex;
     flex-wrap: nowrap;
