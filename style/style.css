@@ -19,7 +19,8 @@ ul {
 li {
     float: left;
     margin-right: auto;
-    margin-left: 200px;
+    margin-left: 150px;
+    padding: 0px 30px;
 }
 
 li a {
