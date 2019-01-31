@@ -49,6 +49,41 @@ li a:hover {
     border-radius: 50px;
 }
 
+.button {
+    /* background-image: radial-gradient(#fd00ff, #fdff00, #00ff38, #00f9ff, #3c00ff); */
+    border-radius: 30px;
+    border-style: double;
+    color: white;
+    padding: 1px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: alias;
+}
+
+.facebook {
+    background-color: #3b5998;
+}
+
+.youtube {
+    background-color: #ff0000;
+}
+
+.facebook:hover {
+    background-color: darkgrey;
+    color: #3b5998;
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.youtube:hover {
+    background-color: darkgrey;
+    color: #ff0000;
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+
+}
+
 .flex-container {
     display: flex;
     flex-wrap: nowrap;
